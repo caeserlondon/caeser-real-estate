@@ -191,7 +191,7 @@ export default async function PropertyDetailPage({
 									key={item.label}
 									className='flex items-center justify-between py-4 px-6 border-b border-white/5 last:border-b-0'
 								>
-									<span className='text-neutral-500 text-xs font-bold uppercase tracking-widest'>
+									<span className='text-neutral-400 text-xs font-bold uppercase tracking-widest'>
 										{item.label}
 									</span>
 									<span className='text-white text-sm'>{item.value}</span>
