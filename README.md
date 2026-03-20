@@ -16,16 +16,18 @@ Caeser Real Estate is a polished front-end property platform designed to showcas
 
 **Live Demo:** [caeser-real-estate.vercel.app](https://caeser-real-estate.vercel.app/)
 
-## Overview
+## Web Vitals
 
 <p align="center">
   <img src="./assets/gtmetrix.png" alt="Caeser Real Estate GTmetrix results" width="49%" />
   <img src="./assets/page-speed-insite.png" alt="Caeser Real Estate PageSpeed Insights results" width="49%" />
 </p>
 
-This project was created as a high-end real estate web experience with a strong focus on premium design, refined user experience, and top-tier front-end performance.
-
 It achieved **full scores across key testing categories**, including **performance, structure, accessibility, best practices, and SEO**, demonstrating that the site was built not only to look luxurious, but also to perform at an exceptional standard.
+
+## Overview
+
+This project was created as a high-end real estate web experience with a strong focus on premium design, refined user experience, and top-tier front-end performance.
 
 Key priorities for this project included:
 
